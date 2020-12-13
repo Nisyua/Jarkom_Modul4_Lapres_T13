@@ -12,6 +12,6 @@ Buat topologi sesuai soal di CPT, lalu tentukan subnet.
 ![](https://github.com/Nisyua/Jarkom_Modul4_Lapres_T13/blob/main/img/topo-vlsm.png)
 
 ### Hitung pembagian IP menggunakan tree seperti dibawah
-![](https://github.com/Nisyua/Jarkom_Modul4_Lapres_T13/blob/main/img/pohon-vlsm.png)
+![](https://github.com/Nisyua/Jarkom_Modul4_Lapres_T13/blob/main/img/vlsm.png)
 
 
