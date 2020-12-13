@@ -8,8 +8,10 @@
 Buat topologi sesuai soal di CPT, lalu tentukan subnet.
 ![](https://github.com/Nisyua/Jarkom_Modul4_Lapres_T13/blob/main/img/Soal%20Shift%20Modul%204.png)
 
-## VLSM
+### Tentukan jumlah alamat IP yang dibutuhkan oleh tiap subnet dan lakukan labelling netmask berdasarkan jumlah IP yang dibutuhkan.
+![](https://github.com/Nisyua/Jarkom_Modul4_Lapres_T13/blob/main/img/topo-vlsm.png)
+
+### Hitung pembagian IP menggunakan tree seperti dibawah
 ![](https://github.com/Nisyua/Jarkom_Modul4_Lapres_T13/blob/main/img/pohon-vlsm.png)
 
-## Topologi
-![](https://github.com/Nisyua/Jarkom_Modul4_Lapres_T13/blob/main/img/topo-vlsm.png)
+
