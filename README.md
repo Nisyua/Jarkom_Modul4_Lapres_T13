@@ -7,3 +7,9 @@
 ### Cisco Packet Tracker VSLM
 Buat topologi sesuai soal di CPT, lalu tentukan subnet.
 ![](https://github.com/Nisyua/Jarkom_Modul4_Lapres_T13/blob/main/img/Soal%20Shift%20Modul%204.png)
+
+## VLSM
+![](https://github.com/Nisyua/Jarkom_Modul4_Lapres_T13/blob/main/img/pohon-vlsm.png)
+
+## Topologi
+![](https://github.com/Nisyua/Jarkom_Modul4_Lapres_T13/blob/main/img/topo-vlsm.png)
